@@ -3,6 +3,7 @@
 Este es mi primer proyecto de visión artificial, donde desarrollé un modelo capaz de detectar autos utilizando YOLOv5.
 
 ## 🎥 Video de Demostracion = "demo.mp4"
+https://github.com/JuanGonzalez-IA/detector-autos-yolov5/blob/main/demo.mp4
 
 
 ## 🧠 Sobre el proyecto

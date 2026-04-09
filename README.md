@@ -24,12 +24,9 @@ Archivo: `detect.py`
 
 Permite detectar autos en tiempo real utilizando la cámara de la PC.
 
-```bash
-python detect.py
-
 ☁️ Uso en videos (Google Colab)
 
-Notebook: colab/detector.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lF1fweI2vyPSpr7XCmwkFhb-7bd4EXja?usp=sharing)
 
 Permite procesar videos y descargarlos utilizando GPU para mejorar el rendimiento.
 

@@ -24,13 +24,13 @@ Archivo: `detect.py`
 
 Permite detectar autos en tiempo real utilizando la cámara de la PC.
 
-☁️ Uso en videos (Google Colab)
+## ☁️ Uso en videos (Google Colab)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lF1fweI2vyPSpr7XCmwkFhb-7bd4EXja?usp=sharing)
 
 Permite procesar videos y descargarlos utilizando GPU para mejorar el rendimiento.
 
-📦 Modelo
+## 📦 Modelo
 
 Descargar desde:
 https://drive.google.com/file/d/1_k11hfoChNFZrLsSV42SMJVvkP3H6LnO/view?usp=sharing
@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1_k11hfoChNFZrLsSV42SMJVvkP3H6LnO/view?usp=shari
 Colocar en:
 model/auto.pt
 
-📊 Dataset
+## 📊 Dataset
 
 Dataset completamente creado por mí:
 
